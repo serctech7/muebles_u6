@@ -1,0 +1,108 @@
+CRITICAL - 2021-01-17 05:05:27 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\mueblesu6\app\Models\HomePostModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#2 C:\xampp\htdocs\mueblesu6\app\Controllers\HomePost.php(21): App\Models\HomePostModel->obtenerTodosLosMueblesModel()
+#3 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\HomePost->obtenerTodosLosMuebles()
+#4 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePost))
+#5 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mueblesu6\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-17 05:05:33 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\mueblesu6\app\Models\HomePostModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#2 C:\xampp\htdocs\mueblesu6\app\Controllers\HomePost.php(21): App\Models\HomePostModel->obtenerTodosLosMueblesModel()
+#3 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\HomePost->obtenerTodosLosMuebles()
+#4 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePost))
+#5 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mueblesu6\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-17 05:22:36 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\mueblesu6\app\Models\HomePostModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#2 C:\xampp\htdocs\mueblesu6\app\Controllers\HomePost.php(21): App\Models\HomePostModel->obtenerTodosLosMueblesModel()
+#3 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\HomePost->obtenerTodosLosMuebles()
+#4 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePost))
+#5 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mueblesu6\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-17 05:23:28 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\mueblesu6\app\Models\HomePostModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#2 C:\xampp\htdocs\mueblesu6\app\Controllers\HomePost.php(21): App\Models\HomePostModel->obtenerTodosLosMueblesModel()
+#3 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\HomePost->obtenerTodosLosMuebles()
+#4 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePost))
+#5 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mueblesu6\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-17 20:10:57 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\mueblesu6\app\Models\HomePostModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#2 C:\xampp\htdocs\mueblesu6\app\Controllers\HomePost.php(21): App\Models\HomePostModel->obtenerTodosLosMueblesModel()
+#3 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\HomePost->obtenerTodosLosMuebles()
+#4 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePost))
+#5 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mueblesu6\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-17 20:30:46 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\mueblesu6\app\Models\HomePostModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#2 C:\xampp\htdocs\mueblesu6\app\Controllers\HomePost.php(21): App\Models\HomePostModel->obtenerTodosLosMueblesModel()
+#3 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\HomePost->obtenerTodosLosMuebles()
+#4 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePost))
+#5 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mueblesu6\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-17 22:51:09 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\mueblesu6\app\Models\HomePostModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#2 C:\xampp\htdocs\mueblesu6\app\Controllers\HomePost.php(21): App\Models\HomePostModel->obtenerTodosLosMueblesModel()
+#3 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\HomePost->obtenerTodosLosMuebles()
+#4 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePost))
+#5 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mueblesu6\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-17 22:51:12 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\mueblesu6\app\Models\HomePostModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#2 C:\xampp\htdocs\mueblesu6\app\Controllers\HomePost.php(21): App\Models\HomePostModel->obtenerTodosLosMueblesModel()
+#3 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\HomePost->obtenerTodosLosMuebles()
+#4 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePost))
+#5 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mueblesu6\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-17 22:51:50 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\mueblesu6\app\Models\HomePostModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#2 C:\xampp\htdocs\mueblesu6\app\Controllers\HomePost.php(21): App\Models\HomePostModel->obtenerTodosLosMueblesModel()
+#3 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\HomePost->obtenerTodosLosMuebles()
+#4 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePost))
+#5 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mueblesu6\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-17 22:53:24 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\mueblesu6\app\Models\HomePostModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#2 C:\xampp\htdocs\mueblesu6\app\Controllers\HomePost.php(21): App\Models\HomePostModel->obtenerTodosLosMueblesModel()
+#3 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\HomePost->obtenerTodosLosMuebles()
+#4 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePost))
+#5 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mueblesu6\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-17 23:02:56 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\mueblesu6\app\Models\HomePostModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#2 C:\xampp\htdocs\mueblesu6\app\Controllers\HomePost.php(21): App\Models\HomePostModel->obtenerTodosLosMueblesModel()
+#3 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\HomePost->obtenerTodosLosMuebles()
+#4 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePost))
+#5 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mueblesu6\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-17 23:04:24 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\mueblesu6\app\Models\HomePostModel.php(13): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#2 C:\xampp\htdocs\mueblesu6\app\Controllers\HomePost.php(21): App\Models\HomePostModel->obtenerTodosLosMueblesModel()
+#3 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\HomePost->obtenerTodosLosMuebles()
+#4 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePost))
+#5 C:\xampp\htdocs\mueblesu6\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mueblesu6\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
